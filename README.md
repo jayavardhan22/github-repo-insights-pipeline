@@ -40,14 +40,14 @@ Company tech stacks • Market positioning • Strategic insights
 
 ---
 
-## 📊 Dashboard Details
-
 ### 1. Executive Dashboard 📈
 High-level overview of market performance across all companies.
 
 **Key Metrics:** 40+ repositories · 2.7M+ total stars · 12.8 yr avg maturity · 5 companies tracked
 
 **Visuals:** KPI Cards · Stars Distribution by Company · Repo Count by Company · Top 10 Leaderboard
+
+📖 [Full Documentation](docs/dashboards/01-executive-dashboard.md)
 
 ---
 
@@ -58,6 +58,8 @@ Deep dive into technology adoption and market trends.
 
 **Visuals:** Stars by Language · Repo Count by Language · Technology Momentum Score · Popularity vs Activity Scatter · Language Filtering
 
+📖 [Full Documentation](docs/dashboards/02-Technology-trends.md)
+
 ---
 
 ### 3. Growth & Trend Analysis 🚀
@@ -67,6 +69,8 @@ Analytical deep-dive showing repository momentum and trajectory.
 
 **Visuals:** Growth Potential by Repo · Stars Growth Rate by Company · Top Growth Repos Table · Activity Status Tracking
 
+📖 [Full Documentation](docs/dashboards/03-Growth-Trend-analysis.md)
+
 ---
 
 ### 4. Competitive Intelligence 🏆
@@ -75,6 +79,8 @@ Strategic positioning and competitive analysis.
 **Key Insights:** 5 companies · 2M+ total market stars · 19.29 yr avg repo age · 2–4 languages per company
 
 **Visuals:** Market Position Matrix · Technology Diversity Score · Competitive Analysis Table · Strategic Positioning Insights
+
+📖 [Full Documentation](docs/dashboards/04-competitive-intelligence.md)
 
 ---
 
