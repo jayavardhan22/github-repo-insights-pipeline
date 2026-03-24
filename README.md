@@ -333,7 +333,7 @@ SLA     : 99.9% uptime · Error handling & retry logic · Failure notifications
 ## 👨‍💻 Author
 
 **Jayavardhan P** · Data Engineering + Business Intelligence  
-📧 jayavardhanp2204@gmail.com · 🐙 [@jayavardhan22](https://github.com/jayavardhan22) · 💼 [LinkedIn](#) · 🌐 [Portfolio](#)
+📧 jayavardhanp2204@gmail.com · 🐙 [@jayavardhan22](https://github.com/jayavardhan22) · 💼 [LinkedIn](https://www.linkedin.com/in/jayavardhan-premnath-a7293b237/) · 🌐 [Portfolio](https://jayavardhan22.github.io/jayavardhan-portfolio/)
 
 ---
 
