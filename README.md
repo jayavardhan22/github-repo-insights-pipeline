@@ -24,7 +24,23 @@
 
 ---
 
-## 📊 Dashboards
+## 📊 Live Interactive Dashboards
+
+### [Executive Dashboard](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+High-level market overview • Company rankings • Star distribution
+
+### [Technology Trends & Market Analysis](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Language market share • Emerging technologies • Growth trends
+
+### [Growth & Trend Analysis](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Repository growth rates • Velocity metrics • 12-month predictions
+
+### [Competitive Intelligence & Strategy](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Company tech stacks • Market positioning • Strategic insights
+
+---
+
+## 📊 Dashboard Details
 
 ### 1. Executive Dashboard 📈
 High-level overview of market performance across all companies.
