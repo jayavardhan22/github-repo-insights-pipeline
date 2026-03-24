@@ -24,7 +24,23 @@
 
 ---
 
-## 📊 Dashboards
+## 📊 Live Interactive Dashboards
+
+### [Executive Dashboard](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+High-level market overview • Company rankings • Star distribution
+
+### [Technology Trends & Market Analysis](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Language market share • Emerging technologies • Growth trends
+
+### [Growth & Trend Analysis](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Repository growth rates • Velocity metrics • 12-month predictions
+
+### [Competitive Intelligence & Strategy](https://app.powerbi.com/reportEmbed?reportId=f258e380-b83e-483f-87a7-bce909d9e0ea&autoAuth=true&ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc)
+Company tech stacks • Market positioning • Strategic insights
+
+---
+
+## 📊 Dashboard Details
 
 ### 1. Executive Dashboard 📈
 High-level overview of market performance across all companies.
@@ -137,35 +153,6 @@ Strategic positioning and competitive analysis.
 | Version Control | Git / GitHub | Code management |
 | IaC | YAML | Workflow configuration |
 
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.10+
-- GitHub account with API access
-- Google Cloud Project with BigQuery enabled
-- Power BI Pro *(optional, for full features)*
-
-### Setup
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/jayavardhan22/github-repo-insights-pipeline.git
-cd github-repo-insights-pipeline
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Configure credentials
-cp .env.example .env
-# Add: GITHUB_TOKEN, GCP_PROJECT_ID, GOOGLE_APPLICATION_CREDENTIALS
-
-# 4. Run locally
-python main.py
-```
-
-**Automation:** GitHub Actions workflow at `.github/workflows/data-collection.yml` runs daily at 2:00 AM UTC — no manual intervention needed.
 
 ---
 
@@ -315,12 +302,6 @@ SLA     : 99.9% uptime · Error handling & retry logic · Failure notifications
 ## 🎓 Skills Demonstrated
 
 `ETL Pipeline Design` `API Integration` `Cloud Data Warehouse` `CI/CD Automation` `Business Intelligence` `Python` `SQL` `BigQuery` `Power BI` `DAX` `GitHub Actions` `YAML` `Git`
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
