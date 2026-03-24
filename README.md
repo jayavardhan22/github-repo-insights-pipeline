@@ -334,12 +334,6 @@ SLA     : 99.9% uptime · Error handling & retry logic · Failure notifications
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## 👨‍💻 Author
 
 **Jayavardhan P** · Data Engineering + Business Intelligence  
