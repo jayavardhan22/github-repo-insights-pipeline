@@ -155,32 +155,6 @@ Strategic positioning and competitive analysis.
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.10+
-- GitHub account with API access
-- Google Cloud Project with BigQuery enabled
-- Power BI Pro *(optional, for full features)*
-
-### Setup
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/jayavardhan22/github-repo-insights-pipeline.git
-cd github-repo-insights-pipeline
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Configure credentials
-cp .env.example .env
-# Add: GITHUB_TOKEN, GCP_PROJECT_ID, GOOGLE_APPLICATION_CREDENTIALS
-
-# 4. Run locally
-python main.py
-```
-
 **Automation:** GitHub Actions workflow at `.github/workflows/data-collection.yml` runs daily at 2:00 AM UTC — no manual intervention needed.
 
 ---
