@@ -141,7 +141,7 @@ The pipeline is developed in VS Code with direct BigQuery integration — enabli
 
 ### ⚙️ Automation in Action
 
-GitHub Actions triggers the Python ETL script daily, uploads results to BigQuery, and keeps all dashboards refreshed automatically — zero manual steps required.
+GitHub Actions triggers the Python ETL script daily, uploads results to BigQuery, and keeps all dashboards refreshed automatically - zero manual steps required.
 
 ![BigQuery Automation](assets/VS-Code-BQ-screenshots/BQ-Automation.png)
 
@@ -161,7 +161,7 @@ GitHub Actions triggers the Python ETL script daily, uploads results to BigQuery
 
 ### 🗄️ BigQuery Data Preview
 
-Structured, queryable data stored in BigQuery — ready for direct SQL analysis or Power BI consumption.
+Structured, queryable data stored in BigQuery - ready for direct SQL analysis or Power BI consumption.
 
 ![BigQuery Data Preview](assets/VS-Code-BQ-screenshots/BQ-data.png)
 
