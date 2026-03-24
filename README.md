@@ -153,9 +153,6 @@ Strategic positioning and competitive analysis.
 | Version Control | Git / GitHub | Code management |
 | IaC | YAML | Workflow configuration |
 
----
-
-**Automation:** GitHub Actions workflow at `.github/workflows/data-collection.yml` runs daily at 2:00 AM UTC — no manual intervention needed.
 
 ---
 
