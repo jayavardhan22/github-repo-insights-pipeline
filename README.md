@@ -40,7 +40,7 @@ Company tech stacks • Market positioning • Strategic insights
 
 ---
 
-## 📊 Dashboard Details
+## 📋 Dashboard Details
 
 ### 1. Executive Dashboard 📈
 High-level overview of market performance across all companies.
@@ -48,6 +48,8 @@ High-level overview of market performance across all companies.
 **Key Metrics:** 40+ repositories · 2.7M+ total stars · 12.8 yr avg maturity · 5 companies tracked
 
 **Visuals:** KPI Cards · Stars Distribution by Company · Repo Count by Company · Top 10 Leaderboard
+
+📖 [Full Documentation](docs/dashboards/01-executive-dashboard.md)
 
 ---
 
@@ -58,6 +60,8 @@ Deep dive into technology adoption and market trends.
 
 **Visuals:** Stars by Language · Repo Count by Language · Technology Momentum Score · Popularity vs Activity Scatter · Language Filtering
 
+📖 [Full Documentation](docs/dashboards/02-language-trends.md)
+
 ---
 
 ### 3. Growth & Trend Analysis 🚀
@@ -67,6 +71,8 @@ Analytical deep-dive showing repository momentum and trajectory.
 
 **Visuals:** Growth Potential by Repo · Stars Growth Rate by Company · Top Growth Repos Table · Activity Status Tracking
 
+📖 [Full Documentation](docs/dashboards/03-growth-analysis.md)
+
 ---
 
 ### 4. Competitive Intelligence 🏆
@@ -75,6 +81,8 @@ Strategic positioning and competitive analysis.
 **Key Insights:** 5 companies · 2M+ total market stars · 19.29 yr avg repo age · 2–4 languages per company
 
 **Visuals:** Market Position Matrix · Technology Diversity Score · Competitive Analysis Table · Strategic Positioning Insights
+
+📖 [Full Documentation](docs/dashboards/04-competitive-intelligence.md)
 
 ---
 
@@ -104,6 +112,12 @@ Strategic positioning and competitive analysis.
   └───────────────┘
 ```
 
+### 💻 Development Environment
+
+The pipeline is developed in VS Code with direct BigQuery integration — enabling local testing, query validation, and schema inspection before deploying to automation.
+
+![VS Code Development](assets/VS-Code-BQ-screenshots/VS-code.png)
+
 ---
 
 ## 🔄 Data Pipeline
@@ -125,6 +139,12 @@ Strategic positioning and competitive analysis.
 
 **Frequency:** Daily at 2:00 AM UTC · **Latency:** <30 min · **Data Points:** 40 repos × 35+ metrics · **Records:** 2,000+/day
 
+### ⚙️ Automation in Action
+
+GitHub Actions triggers the Python ETL script daily, uploads results to BigQuery, and keeps all dashboards refreshed automatically - zero manual steps required.
+
+![BigQuery Automation](assets/VS-Code-BQ-screenshots/BQ-Automation.png)
+
 ---
 
 ## 📦 Data Collected Per Repository
@@ -139,6 +159,12 @@ Strategic positioning and competitive analysis.
 
 **Totals:** 35+ metrics per repo · 40+ repos tracked · 1,400+ data points per cycle · 511,000+ historical records
 
+### 🗄️ BigQuery Data Preview
+
+Structured, queryable data stored in BigQuery - ready for direct SQL analysis or Power BI consumption.
+
+![BigQuery Data Preview](assets/VS-Code-BQ-screenshots/BQ-data.png)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -152,7 +178,6 @@ Strategic positioning and competitive analysis.
 | Analytics | Power BI | Interactive dashboards |
 | Version Control | Git / GitHub | Code management |
 | IaC | YAML | Workflow configuration |
-
 
 ---
 
@@ -308,7 +333,7 @@ SLA     : 99.9% uptime · Error handling & retry logic · Failure notifications
 ## 👨‍💻 Author
 
 **Jayavardhan P** · Data Engineering + Business Intelligence  
-📧 jayavardhanp2204@gmail.com · 🐙 [@jayavardhan22](https://github.com/jayavardhan22) · 💼 [LinkedIn](#) · 🌐 [Portfolio](#)
+📧 jayavardhanp2204@gmail.com · 🐙 [@jayavardhan22](https://github.com/jayavardhan22) · 💼 [LinkedIn](https://www.linkedin.com/in/jayavardhan-premnath-a7293b237/) · 🌐 [Portfolio](https://jayavardhan22.github.io/jayavardhan-portfolio/)
 
 ---
 
