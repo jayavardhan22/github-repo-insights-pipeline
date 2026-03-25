@@ -9,49 +9,35 @@
 | Metric | Value | Insight |
 |--------|-------|---------|
 | **Total Stars** | 3.55M | Community engagement scale |
-| **Total Repositories** | 26 | Portfolio diversity |
-| **Total Forks** | 689K | Code reusability & adoption |
-| **Avg Stars/Repo** | 136K | Repository quality & impact |
-| **Total Contributors** | 50K+ | Community size |
+| **Total Repositories** | 52 | Portfolio size |
+| **Total Forks** | 689K | Code reusability |
+| **Avg Stars/Repo** | 68.36K | Repository quality |
 
 ## 🎯 What This Shows
 
 ### Top Companies (by Stars)
-1. **Microsoft** - 1.32M stars (37%)
-2. **Meta** - 1.03M stars (29%)
-3. **Google** - 930K stars (26%)
-4. **Apple** - 180K stars (5%)
-5. **Amazon** - 100K stars (3%)
+1. **Microsoft** 1.32M stars (37%)
+2. **Meta** 1.03M stars (29%)
+3. **Google** 930K stars (26%)
+4. **Apple** 180K stars (5%)
+5. **Amazon** 100K stars (3%)
 
 ### Repository Distribution
-- **Microsoft & Meta** lead market with combined 66%
-- **Google** strong infrastructure focus at 26%
-- **Apple & Amazon** specialized portfolios
+- **Microsoft & Meta** lead with 26-27% each
+- **Google** strong at 19%
+- **Apple & Amazon** smaller portfolios but strategic focus
 
-## 📊 Dashboard Components
+## 💡 Key Insights for Recruiters
 
-| Component | Purpose |
-|-----------|---------|
-| Company Ranking Card | Shows market dominance by stars |
-| Stars Distribution Pie | Market share visualization |
-| Repository Count Bar | Portfolio size comparison |
-| Average Health Score | Code quality metric |
-| Most Popular Repo | Top performer highlight |
+✅ **Shows**: Data aggregation & visualization skills  
+✅ **Demonstrates**: ETL pipeline delivering 3.5M+ stars of real data  
+✅ **Proves**: Ability to connect multiple data sources (GitHub API → BigQuery → Power BI)
 
-## 💡 Key Insights
+## 🔗 Access
 
-✅ **Microsoft dominates** with enterprise-focused tools (VSCode, TypeScript)
-✅ **Meta strong in AI/Web** (React, PyTorch)
-✅ **Google leads infrastructure** (TensorFlow, Kubernetes)
-✅ **Apple focused on mobile** (Swift, CoreML)
-✅ **Amazon cloud-centric** (AWS CLI, AWS CDK)
-
-## 🔍 How to Use This Dashboard
-
-1. **Filter by Company** - Isolate specific company portfolio
-2. **Drill-down** - Click on repo to see details
-3. **Compare** - Side-by-side company metrics
-4. **Track Trends** - Monitor changes over time
+- **Updated**: Daily at 2:00 AM UTC
+- **Data Source**: 52 repositories across 5 companies
+- **View Live**: [Power BI Link](#)
 
 ---
 
