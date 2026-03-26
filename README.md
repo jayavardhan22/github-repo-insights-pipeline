@@ -1,6 +1,5 @@
 # 📊 GitHub Intelligence Dashboard — Big 5 Tech Companies
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Data Updated](https://img.shields.io/badge/Data-Auto%20Updated%20Daily-green.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics%20Dashboard-orange.svg)
